@@ -1,3 +1,13 @@
+基于[zeroturnaround/zt-zip](https://github.com/zeroturnaround/zt-zip)的Android版
+
+```
+implementation 'in.xiandanin:zt-zip:1.14'
+```
+
+
+
+
+
 ZIP - convenience methods
 =========================
 

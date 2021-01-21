@@ -1,0 +1,3 @@
+include ':zt-zip'
+include ':app'
+rootProject.name = "zt-zip"

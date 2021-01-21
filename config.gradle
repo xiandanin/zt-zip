@@ -1,0 +1,44 @@
+ext {
+    android =
+            [
+                    //版本号
+                    versionCode      : 14,
+                    versionName      : "1.14",
+
+                    applicationId    : "org.zeroturnaround.zip.sample",
+                    //sdk版本
+                    compileSdkVersion: 30,
+                    buildToolsVersion: "30.0.3",
+                    minSdkVersion    : 19,
+                    targetSdkVersion : 30,
+                    supportVersion   : "30.0.0",
+            ]
+
+    jcenter =
+            [
+                    //项目名称
+                    name       : "zt-zip",
+                    groupId    : "in.xiandanin",
+                    //项目地址
+                    siteUrl    : "https://github.com/xiandanin/zt-zip",
+                    //项目git地址
+                    gitUrl     : "https://github.com/xiandanin/zt-zip.git",
+                    //项目描述
+                    description: "基于zeroturnaround/zt-zip的android版",
+                    //开发者的一些基本信息
+                    authorId   : "xiandanin",
+                    authorName : "xiandanin",
+                    authorEmail: "denghahae@gmail.com",
+
+                    //开源协议
+                    licenses   : {
+                        license {
+                            name 'MIT'
+                            url 'https://opensource.org/licenses/MIT'
+                        }
+                    },
+                    licenseName: 'MIT'
+            ]
+
+
+}
