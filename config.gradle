@@ -18,7 +18,7 @@ ext {
             [
                     //项目名称
                     name       : "zt-zip",
-                    groupId    : "in.xiandanin",
+                    groupId    : "in.xiandan",
                     //项目地址
                     siteUrl    : "https://github.com/xiandanin/zt-zip",
                     //项目git地址
